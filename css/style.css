@@ -368,7 +368,7 @@ ul.btn li:last-child {
 .header {
      width: 100%;
      padding: 30px 30px;
-     border-bottom: #c6cad5 solid 12px;
+     border-bottom: #c6cad5 solid 3px;
      background-color: #13110e;
 }
 
@@ -400,9 +400,9 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: black;
      background-repeat: no-repeat;
-     min-height: 840px;
+     min-height: 440px;
      background-size: 100% 100%;
      display: flex;
      justify-content: center;
@@ -414,11 +414,11 @@ ul.btn li:last-child {
      text-align: center;
 }
 
-.text-bg h1 {
+.text-bg h3 {
      text-transform: uppercase;
      color: #fff;
-     font-size: 110px;
-     line-height: 120px;
+     font-size: 50px;
+     line-height: 70px;
      padding-bottom: 15px;
      font-weight: bold;
 }
